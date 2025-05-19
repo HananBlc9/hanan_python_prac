@@ -16,3 +16,4 @@ def fact(x):
     else:
         return x*fact(x-1)
 print("Factorial 2: 2*1 = ", fact(2))
+print("This is Factorial!")
