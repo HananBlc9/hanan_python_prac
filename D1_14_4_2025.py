@@ -12,3 +12,5 @@ for i in range(y*2):
     if i%2 == 1:
         print((" "*q)+"*"*i)
         q-=1
+
+print("This is first day!")
